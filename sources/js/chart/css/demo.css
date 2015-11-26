@@ -1,0 +1,22 @@
+.legend {
+	height:auto;
+}
+
+.legend .title {
+  display: block;
+  margin-bottom: 0.5rem;
+  padding: 0 0.3em;
+  font-size: 0.75rem;
+  color: #838381;
+  font-weight: bold;
+}
+
+.legend .color-sample {
+  display: block;
+  float: left;
+  width: 0.75rem;
+  height: 0.75rem;
+  border: 2px solid;
+  border-radius: 50%;
+  margin-right: 0.5rem;
+}
